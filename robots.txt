@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iphaughaid.mrssears.com/sitemap.xml
